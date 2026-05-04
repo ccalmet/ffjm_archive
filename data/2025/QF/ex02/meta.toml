@@ -1,0 +1,39 @@
+[meta]
+concours = "ffjm"
+edition = 39
+annee = 2025
+etape = "QF"
+categorie = "CE"
+tags_statut = "brouillon"
+
+[exercice]
+numero = 2
+nom = "Intersections"
+nb_solution = 1
+
+[tags]
+themes = ["geometrie"]
+
+notions = [
+  "cercle",
+  "droite",
+  "intersection"
+]
+
+techniques = [
+  "majoration",
+  "ajout_objet",
+  "existence"
+]
+
+niveau = ["primaire"]
+
+[assets]
+figures = [
+  # Pas de figure dans l'énoncé pour cet exercice
+  # {id = "FE01", type = "cetz", fichier = "FE01.typ", usage = ["enonce"]}
+
+  # Possibilité d'ajouter une figure plus tard dans l'explication
+   {id = "FX01", type = "cetz", fichier = "FX01.typ", usage = ["explication"]},
+    {id = "FX02", type = "cetz", fichier = "FX02.typ", usage = ["explication"]}
+]

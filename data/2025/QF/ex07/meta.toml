@@ -1,0 +1,35 @@
+[meta]
+concours = "ffjm"
+edition = 39
+annee = 2025
+etape = "QF"
+categorie = "CM"
+tags_statut = "brouillon" # ou "valide"
+
+[exercice]
+numero = 7
+nom = "Tra'dition"
+nb_solution = 1
+
+[tags]
+
+themes = ["logique", "arithmetique"]
+notions = [
+  "somme",
+  "contrainte",
+  "placement"
+]
+techniques = [
+  "hypothese",
+  "propagation",
+  "contradiction",
+  "elimination"
+]
+niveau = ["primaire"]
+
+[assets]
+figures = [
+  {id = "FE01", type = "cetz", fichier = "FE01.typ", usage = ["enonce"]},
+  { id = "FX01", type = "cetz", fichier = "FX01.typ", usage = ["explication"] },
+  { id = "FX02", type = "cetz", fichier = "FX02.typ", usage = ["explication"] }
+]
