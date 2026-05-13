@@ -10,9 +10,9 @@ Les exercices proviennent des sujets du championnat de la FFJM :
 https://www.ffjm.org/
 
 La FFJM est une association dont l’objectif est de développer le goût des mathématiques par le jeu, notamment à travers un championnat international
-rassemblant des participants de tous âges. :contentReference[oaicite:1]{index=1}
+rassemblant des participants de tous âges.
 
-Les épreuves sont constituées d’énigmes mathématiques variées, à résoudre en temps limité, sans rédaction détaillée (seule la réponse est attendue). :contentReference[oaicite:2]{index=2}
+Les épreuves sont constituées d’énigmes mathématiques variées, à résoudre en temps limité, sans rédaction détaillée (seule la réponse est attendue).
 
 ---
 
@@ -26,7 +26,7 @@ L’objectif de ce dépôt est de proposer une **alternative structurée à l'ar
   - solution
   - explication
   - figures
-- ajout de métadonnées (tags, thèmes, techniques)
+- ajout de métadonnées (tags: thèmes, notions, techniques)
 
 ---
 
