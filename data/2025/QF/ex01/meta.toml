@@ -15,7 +15,6 @@ nb_solution = 1
 themes = ["arithmetique"]
 notions = ["chiffre", "date"]
 techniques = ["elimination", "extremum"]
-#competences = ["chercher"]
 niveau = ["primaire"]
 
 [assets]

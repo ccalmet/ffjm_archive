@@ -30,10 +30,10 @@ niveau = ["primaire"]
 
 [assets]
 figures = [
-  # Pas de figure dans l'énoncé pour cet exercice
+  # Pas de figure dans l'énoncé
   # {id = "FE01", type = "cetz", fichier = "FE01.typ", usage = ["enonce"]}
 
-  # Possibilité d'ajouter une figure plus tard dans l'explication
+  # Figures dans les explications
    {id = "FX01", type = "cetz", fichier = "FX01.typ", usage = ["explication"]},
-    {id = "FX02", type = "cetz", fichier = "FX02.typ", usage = ["explication"]}
+   {id = "FX02", type = "cetz", fichier = "FX02.typ", usage = ["explication"]}
 ]

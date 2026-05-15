@@ -23,6 +23,6 @@ niveau = ["primaire"]
 
 [assets]
 figures = [
-  # Pas de figure dans l'énoncé pour cet exercice
+  # Pas de figure pour cet exercice
   # {id = "FE01", type = "cetz", fichier = "FE01.typ", usage = ["enonce"]}
 ]
